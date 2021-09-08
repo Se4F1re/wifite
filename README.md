@@ -10,9 +10,13 @@ cd
 ## After Install
 <p align="center">
 sudo wifite --kill -mac
-
---kill = stops un-necessary process that may interfere with the process
--mac   = changes the MAC address associated with your IP address
+</p>
+<p align="center">
+  --kill = stops un-necessary process that may interfere with the process
+</p>
+<p align="center">
+  -mac   = changes the MAC address associated with your IP address
+</p>
 
 ## If Password Fails to get cracked its okay...
 <p align="center">
