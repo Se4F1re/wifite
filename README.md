@@ -1,6 +1,4 @@
-# Wifite
-Bash Script To Install Wifite 2
-
+# A Super Simple Bash Script To Install Dependencies For Wifite For WiFi Password Credentials
 
 # Install Instructions
 git clone https://github.com/Se4F1re/wifite.git;
@@ -11,9 +9,12 @@ cd
 # After Install
 sudo wifite --kill -mac
 
+--kill = stops un-necessary process that may interfere with the process
+-mac   = changes the MAC address associated with your IP address
+
 # If Password Fails to get cracked its okay...
 ls -la /opt/SecLists
-# Just pick a file from here, absolute path is necessary for example:
+# Just pick a file from here, to run with Aircrack-NG:
 # /opt/SecLists/Passwords/darkweb2017-top10000.txt
 
 # Aircrack-NG
