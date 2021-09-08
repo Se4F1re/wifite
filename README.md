@@ -15,7 +15,7 @@
 ## If Password Fails to get cracked its okay...
 `ls -la /opt/SecLists`
 ### Just pick a file from here, to run with Aircrack-NG:
-### /opt/SecLists/Passwords/darkweb2017-top10000.txt
+`/opt/SecLists/Passwords/darkweb2017-top10000.txt`
 
 ## Aircrack-NG
 `aircrack-ng handshake.cap -w /opt/SecLists/Passwords/darkweb2017-top10000.txt`
