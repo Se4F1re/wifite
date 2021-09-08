@@ -1,4 +1,4 @@
-<p align="center">A Super Simple Bash Script To Install Dependencies For Wifite For WiFi Password Credentials</p>
+<p align="center">A Super Simple Bash Script To Install Dependencies For Wifite For WiFi Password Credentials
 
 ## Install Instructions
 git clone https://github.com/Se4F1re/wifite.git;
@@ -19,6 +19,7 @@ ls -la /opt/SecLists
 
 ## Aircrack-NG
 aircrack-ng handshake.cap -w /opt/SecLists/Passwords/darkweb2017-top10000.txt
-
+  
+</p>
 ## If you still fail to get a succesfull password there will be other options here soon.
 ## Plan to add a brute force here... Comming Soon...
