@@ -3,9 +3,9 @@
 ## Install Instructions
 
 `git clone https://github.com/Se4F1re/wifite.git;`
-`chmod +x install.sh;`
-`sudo ./install.sh;`
-`cd`
+chmod +x install.sh;
+sudo ./install.sh;
+cd`
 
 ## After Install
 `sudo wifite --kill -mac`
