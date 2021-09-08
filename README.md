@@ -8,7 +8,7 @@
 `cd`
 
 ## After Install:
-`sudo wifite --kill -mac`
+`sudo wifite --kill -mac`  
   --kill = stops un-necessary process that may interfere with the process  
   -mac   = changes the MAC address associated with your IP address  
 
