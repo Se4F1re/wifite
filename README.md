@@ -1,4 +1,4 @@
-#<p align="center">A Super Simple Bash Script To Install Dependencies For Wifite For WiFi Password Credentials</p>
+<p align="center">A Super Simple Bash Script To Install Dependencies For Wifite For WiFi Password Credentials</p>
 
 ## Install Instructions
 
