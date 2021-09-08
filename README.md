@@ -9,8 +9,8 @@
 
 ## After Install:
 `sudo wifite --kill -mac`
-  --kill = stops un-necessary process that may interfere with the process
-  -mac   = changes the MAC address associated with your IP address
+  --kill = stops un-necessary process that may interfere with the process  
+  -mac   = changes the MAC address associated with your IP address  
 
 ## If Password Fails to get cracked its okay...
 ### Just pick a file from here, to run with Aircrack-NG:
